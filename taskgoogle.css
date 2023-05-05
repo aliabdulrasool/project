@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'arial',sans-serif;
+}
+.main{
+    background-image: url(https://l.top4top.io/p_2679peo771.jpg);
+   
+   border: none;
+  }
+.picture4{
+  color: white;
+  padding:  360px;
+  text-align: center;
+  font-size: 40px; 
+  border: none;
+
+}
+.picture5{
+  border: none;
+  height: 750px;
+  width: 100%;
+  background-color: #1A1A1A;
+}
+.what{
+  color: white;
+  margin-left: 30px;
+  padding: 120px;
+  font-size: 50px;
+}
+.flex1{
+ color: white;
+ font-size: 24px;
+}
+
+.flex2{
+  color: white;
+  font-size: 24px;
+ }
+ .flex3{
+  color: white;
+  font-size: 24px;
+ }
+ .main1{
+  margin: 20px;
+  justify-content: space-around;
+  display: flex;
+  flex-direction: row;
+ }
